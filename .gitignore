@@ -1,0 +1,7 @@
+.vs/ 
+Client/.vs/ 
+Server/.vs/ 
+*.exe 
+*.obj 
+*.dll 
+*.pdb 
