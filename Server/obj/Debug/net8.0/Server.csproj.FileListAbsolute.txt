@@ -12,3 +12,4 @@ C:\Users\admin\Desktop\SocketProgramming\Server\obj\Debug\net8.0\refint\Server.d
 C:\Users\admin\Desktop\SocketProgramming\Server\obj\Debug\net8.0\Server.pdb
 C:\Users\admin\Desktop\SocketProgramming\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 C:\Users\admin\Desktop\SocketProgramming\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\admin\Desktop\SocketProgramming\Server\obj\Debug\net8.0\Server.sourcelink.json

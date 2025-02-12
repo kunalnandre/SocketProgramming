@@ -10,7 +10,7 @@ class Client
         {
             using (TcpClient client = new TcpClient("127.0.0.1", 8888))
             {
-                Console.Write("Enter request (e.g., SetA-Two): ");
+                Console.Write("Enter request (e.g., SetA-Two): ");  
                 string? input = Console.ReadLine();
 
                 // Ensure input is not null or empty
