@@ -1,4 +1,4 @@
-# Socket Programming Assignment
+# Socket Programming 
 
 This repository contains a **TCP client-server application** implemented in **.NET**. The assignment demonstrates network communication, encryption, and handling multiple client requests.
 
